@@ -1,0 +1,1013 @@
+Cliente,Responsável,Tipo,Prioridade,Prazo de Conclusão,Data de Conclusão,Status,Observações
+19,Pedro,E-mail,Média,01/01/2025,01/01/2025,Concluída,
+23,Mariana,E-mail,Alta,01/01/2025,01/01/2025,Concluída,
+19,Pedro,E-mail,Alta,01/01/2025,01/01/2025,Concluída,
+20,Rafael,E-mail,Baixa,01/01/2025,01/01/2025,Concluída,
+63,Mariana,Ligação,Média,01/01/2025,01/01/2025,Concluída,
+51,Ana,Reunião com o cliente,Alta,01/01/2025,01/01/2025,Concluída,problema técnico
+3,Mariana,Reunião com o cliente,Média,01/01/2025,01/01/2025,Concluída,Revisão Estratégica
+89,Rafael,Reunião com o cliente,Média,01/01/2025,01/01/2025,Concluída,Revisão Estratégica
+12,Carlos,Atividade,Alta,01/01/2025,02/01/2025,Concluída,
+26,Ana,E-mail,Baixa,01/01/2025,02/01/2025,Concluída,
+59,Pedro,Reunião com o cliente,Baixa,01/01/2025,02/01/2025,Concluída,Revisão Estratégica
+45,Rafael,Atividade,Baixa,01/01/2025,03/01/2025,Concluída,
+66,Ana,E-mail,Alta,01/01/2025,03/01/2025,Concluída,
+78,Ana,Reunião com o cliente,Alta,01/01/2025,03/01/2025,Concluída,problema técnico
+31,Ana,Reunião com o cliente,Alta,01/01/2025,03/01/2025,Concluída,problema técnico
+6,Ana,Reunião com o cliente,Alta,01/01/2025,03/01/2025,Concluída,Problemas Técnicos
+41,Ana,Reunião interna,Alta,01/01/2025,03/01/2025,Concluída,Reunião Geral
+27,Carlos,Reunião interna,Média,01/01/2025,03/01/2025,Concluída,Reunião Geral
+77,Ana,Whatsapp,Baixa,01/01/2025,03/01/2025,Concluída,
+2,Carlos,Whatsapp,Média,01/01/2025,03/01/2025,Concluída,
+3,Mariana,Atividade,Alta,01/01/2025,04/01/2025,Concluída,
+46,Ana,Atividade,Baixa,01/01/2025,05/01/2025,Concluída,
+21,Ana,E-mail,Média,01/01/2025,05/01/2025,Concluída,
+73,Mariana,E-mail,Média,01/01/2025,05/01/2025,Concluída,
+11,Ana,Reunião com o cliente,Alta,01/01/2025,05/01/2025,Concluída,Problemas Técnicos
+57,Carlos,Reunião interna,Alta,01/01/2025,05/01/2025,Concluída,Problema Técnico
+63,Mariana,Reunião interna,Alta,01/01/2025,05/01/2025,Concluída,
+55,Rafael,Whatsapp,Baixa,01/01/2025,05/01/2025,Concluída,
+5,Rafael,Atividade,Média,01/01/2025,06/01/2025,Concluída,
+26,Ana,Ligação,Alta,01/01/2025,06/01/2025,Concluída,
+67,Carlos,Ligação,Alta,01/01/2025,06/01/2025,Concluída,
+1,Ana,Reunião com o cliente,Alta,01/01/2025,06/01/2025,Concluída,Problemas Técnicos
+10,Rafael,Reunião com o cliente,Média,01/01/2025,06/01/2025,Concluída,Treinamento
+28,Mariana,Reunião interna,Média,01/01/2025,06/01/2025,Concluída,Reunião de Time
+19,Pedro,Whatsapp,Baixa,01/01/2025,07/01/2025,Concluída,
+3,Mariana,Reunião com o cliente,Alta,01/01/2025,08/01/2025,Concluída,Problemas Técnicos
+52,Carlos,Reunião com o cliente,Baixa,01/01/2025,09/01/2025,Concluída,Revisão Estratégica
+11,Ana,Reunião interna,Alta,01/01/2025,09/01/2025,Concluída,Problema Técnico
+22,Carlos,Whatsapp,Média,01/01/2025,09/01/2025,Concluída,
+12,Carlos,Reunião com o cliente,Alta,01/01/2025,10/01/2025,Concluída,Revisão Estratégica
+34,Pedro,Reunião interna,Alta,01/01/2025,10/01/2025,Concluída,Reunião Geral
+9,Pedro,Atividade,Alta,01/01/2025,,Vencida,
+27,Carlos,Reunião com o cliente,Alta,02/01/2025,01/01/2025,Concluída,Revisão Estratégica
+49,Pedro,Reunião com o cliente,Alta,02/01/2025,04/01/2025,Concluída,Treinamento
+60,Rafael,Reunião com o cliente,Média,02/01/2025,08/01/2025,Concluída,Treinamento
+71,Ana,Whatsapp,Baixa,02/01/2025,08/01/2025,Concluída,
+5,Rafael,Whatsapp,Média,02/01/2025,08/01/2025,Concluída,
+18,Mariana,Reunião com o cliente,Alta,02/01/2025,11/01/2025,Concluída,Problemas Técnicos
+17,Carlos,Reunião com o cliente,Média,02/01/2025,12/01/2025,Concluída,Treinamento
+56,Ana,Atividade,Média,02/01/2025,,Vencida,
+45,Rafael,E-mail,Média,03/01/2025,01/01/2025,Concluída,
+21,Ana,Tarefa,Alta,03/01/2025,01/01/2025,Concluída,
+69,Pedro,Reunião interna,Média,03/01/2025,03/01/2025,Concluída,Reunião Geral
+25,Rafael,Reunião com o cliente,Alta,03/01/2025,04/01/2025,Concluída,Problemas Técnicos
+4,Pedro,Reunião com o cliente,Média,03/01/2025,07/01/2025,Concluída,Revisão Estratégica
+59,Pedro,Tarefa,Alta,03/01/2025,09/01/2025,Concluída,
+2,Carlos,Reunião interna,Alta,03/01/2025,10/01/2025,Concluída,Reunião Geral
+24,Pedro,E-mail,Alta,03/01/2025,,Vencida,
+1,Ana,Ligação,Baixa,03/01/2025,,Vencida,
+44,Pedro,Reunião interna,Média,03/01/2025,,Vencida,
+39,Pedro,Whatsapp,Alta,03/01/2025,,Vencida,
+66,Ana,Reunião com o cliente,Média,04/01/2025,01/01/2025,Concluída,
+4,Pedro,Reunião com o cliente,Alta,04/01/2025,03/01/2025,Concluída,
+2,Carlos,Reunião interna,Média,04/01/2025,06/01/2025,Concluída,Reunião de Time
+31,Ana,Reunião com o cliente,Alta,04/01/2025,08/01/2025,Concluída,Problema técnico
+5,Rafael,E-mail,Alta,04/01/2025,10/01/2025,Concluída,
+47,Carlos,Reunião com o cliente,Média,04/01/2025,10/01/2025,Concluída,Revisão Estratégica
+11,Ana,Reunião com o cliente,Alta,04/01/2025,13/01/2025,Concluída,Problemas Técnicos
+11,Ana,Reunião interna,Média,04/01/2025,13/01/2025,Concluída,Reunião de Time
+1,Ana,Atividade,Alta,04/01/2025,,Vencida,
+42,Carlos,Atividade,Média,04/01/2025,,Vencida,
+8,Mariana,Atividade,Baixa,04/01/2025,,Vencida,
+19,Pedro,E-mail,Média,04/01/2025,,Vencida,
+19,Pedro,Reunião interna,Alta,04/01/2025,,Vencida,
+20,Rafael,Reunião com o cliente,Baixa,05/01/2025,02/01/2025,Concluída,Revisão Estratégica
+75,Rafael,Reunião com o cliente,Alta,05/01/2025,05/01/2025,Concluída,Problemas Técnicos
+3,Mariana,Reunião com o cliente,Média,05/01/2025,06/01/2025,Concluída,Revisão Estratégica
+79,Ana,Reunião interna,Baixa,05/01/2025,06/01/2025,Concluída,Reunião de Time
+19,Pedro,Reunião interna,Média,05/01/2025,06/01/2025,Concluída,Reunião de Time
+32,Carlos,Whatsapp,Alta,05/01/2025,07/01/2025,Concluída,
+11,Ana,Reunião com o cliente,Alta,05/01/2025,09/01/2025,Concluída,Problemas Técnicos
+17,Carlos,Reunião com o cliente,Alta,05/01/2025,09/01/2025,Concluída,problema técnico
+12,Carlos,Ligação,Média,05/01/2025,10/01/2025,Concluída,
+53,Mariana,E-mail,Média,05/01/2025,12/01/2025,Concluída,
+35,Rafael,Reunião com o cliente,Alta,05/01/2025,13/01/2025,Concluída,Problemas Técnicos
+3,Mariana,Reunião interna,Média,05/01/2025,13/01/2025,Concluída,Reunião de Time
+24,Pedro,Atividade,Alta,05/01/2025,,Vencida,
+23,Mariana,Tarefa,Média,05/01/2025,,Vencida,
+9,Pedro,Whatsapp,Média,06/01/2025,04/01/2025,Concluída,
+52,Carlos,E-mail,Alta,06/01/2025,07/01/2025,Concluída,
+7,Carlos,Reunião com o cliente,Baixa,06/01/2025,08/01/2025,Concluída,Treinamento
+13,Mariana,Reunião com o cliente,Alta,06/01/2025,08/01/2025,Concluída,Revisão Estratégica
+10,Rafael,Reunião com o cliente,Alta,06/01/2025,09/01/2025,Concluída,
+2,Carlos,Reunião com o cliente,Baixa,06/01/2025,11/01/2025,Concluída,Revisão Estratégica
+33,Mariana,Reunião interna,Média,07/01/2025,03/01/2025,Concluída,Reunião Geral
+5,Rafael,Atividade,Média,07/01/2025,06/01/2025,Concluída,
+15,Rafael,Reunião com o cliente,Média,07/01/2025,06/01/2025,Concluída,Revisão Estratégica
+9,Pedro,Reunião com o cliente,Média,07/01/2025,08/01/2025,Concluída,Treinamento
+11,Ana,Whatsapp,Alta,07/01/2025,09/01/2025,Concluída,
+10,Rafael,Reunião com o cliente,Alta,07/01/2025,11/01/2025,Concluída,Problemas Técnicos
+51,Ana,Reunião interna,Alta,07/01/2025,14/01/2025,Concluída,Treinamento de Produto
+18,Mariana,Reunião interna,Alta,07/01/2025,14/01/2025,Concluída,Treinamento de Produto
+51,Ana,Reunião com o cliente,Alta,07/01/2025,15/01/2025,Concluída,
+33,Mariana,Ligação,Alta,07/01/2025,16/01/2025,Concluída,
+22,Carlos,Reunião com o cliente,Média,07/01/2025,16/01/2025,Concluída,Revisão Estratégica
+7,Carlos,Atividade,Média,07/01/2025,17/01/2025,Concluída,
+46,Ana,Ligação,Média,07/01/2025,17/01/2025,Concluída,
+74,Pedro,Reunião interna,Alta,07/01/2025,17/01/2025,Concluída,Reunião Geral
+25,Rafael,E-mail,Baixa,07/01/2025,,Vencida,
+24,Pedro,Reunião com o cliente,Alta,07/01/2025,,Vencida,
+35,Rafael,Reunião com o cliente,Baixa,08/01/2025,09/01/2025,Concluída,Treinamento
+2,Carlos,Reunião com o cliente,Baixa,08/01/2025,10/01/2025,Concluída,Revisão Estratégica
+35,Rafael,Reunião com o cliente,Média,08/01/2025,10/01/2025,Concluída,Treinamento
+18,Mariana,Reunião interna,Média,08/01/2025,10/01/2025,Concluída,Reunião Geral
+13,Mariana,Atividade,Média,08/01/2025,13/01/2025,Concluída,
+82,Carlos,Reunião com o cliente,Alta,08/01/2025,13/01/2025,Concluída,problema técnico
+34,Pedro,Whatsapp,Baixa,08/01/2025,,Vencida,
+57,Carlos,Whatsapp,Baixa,09/01/2025,09/01/2025,Concluída,
+38,Mariana,E-mail,Alta,09/01/2025,11/01/2025,Concluída,
+52,Carlos,E-mail,Média,09/01/2025,16/01/2025,Concluída,
+68,Mariana,E-mail,Média,09/01/2025,17/01/2025,Concluída,
+11,Ana,Reunião interna,Alta,09/01/2025,17/01/2025,Concluída,Problemas Técnicos
+6,Ana,Reunião com o cliente,Média,09/01/2025,19/01/2025,Concluída,Revisão Estratégica
+5,Rafael,Atividade,Alta,09/01/2025,,Vencida,
+70,Rafael,Atividade,Média,09/01/2025,,Vencida,
+19,Pedro,E-mail,Alta,09/01/2025,,Vencida,
+17,Carlos,E-mail,Baixa,09/01/2025,,Vencida,
+2,Carlos,Reunião interna,Baixa,09/01/2025,,Vencida,
+44,Pedro,Atividade,Alta,09/01/2025,,Vencida,
+70,Rafael,Reunião interna,Alta,10/01/2025,06/01/2025,Concluída,Reunião de Time
+22,Carlos,Reunião com o cliente,Média,10/01/2025,07/01/2025,Concluída,Treinamento
+5,Rafael,Atividade,Baixa,10/01/2025,09/01/2025,Concluída,
+51,Ana,Ligação,Baixa,10/01/2025,12/01/2025,Concluída,
+72,Carlos,Reunião interna,Baixa,10/01/2025,14/01/2025,Concluída,Treinamento de Produto
+64,Pedro,Reunião com o cliente,Média,10/01/2025,15/01/2025,Concluída,Treinamento
+6,Ana,E-mail,Média,10/01/2025,17/01/2025,Concluída,
+67,Carlos,E-mail,Média,10/01/2025,19/01/2025,Concluída,
+47,Carlos,Reunião com o cliente,Baixa,10/01/2025,19/01/2025,Concluída,Treinamento
+12,Carlos,Whatsapp,Alta,10/01/2025,19/01/2025,Concluída,
+34,Pedro,Whatsapp,Baixa,10/01/2025,19/01/2025,Concluída,
+8,Mariana,Reunião com o cliente,Alta,11/01/2025,09/01/2025,Concluída,Treinamento
+62,Carlos,Reunião com o cliente,Alta,11/01/2025,11/01/2025,Concluída,Problema técnico
+41,Ana,Atividade,Média,11/01/2025,13/01/2025,Concluída,
+12,Carlos,Reunião interna,Média,11/01/2025,13/01/2025,Concluída,Reunião de Time
+23,Mariana,Tarefa,Alta,11/01/2025,13/01/2025,Concluída,
+14,Pedro,Reunião interna,Baixa,11/01/2025,14/01/2025,Concluída,Treinamento de Produto
+78,Ana,Reunião com o cliente,Alta,11/01/2025,16/01/2025,Concluída,problema técnico
+43,Mariana,Reunião interna,Média,11/01/2025,16/01/2025,Concluída,
+22,Carlos,E-mail,Média,11/01/2025,21/01/2025,Concluída,
+9,Pedro,E-mail,Média,11/01/2025,,Vencida,
+57,Carlos,Reunião interna,Baixa,11/01/2025,,Vencida,
+8,Mariana,Tarefa,Alta,11/01/2025,,Vencida,
+3,Mariana,E-mail,Baixa,12/01/2025,09/01/2025,Concluída,
+56,Ana,Reunião com o cliente,Alta,12/01/2025,09/01/2025,Concluída,Problemas Técnicos
+11,Ana,Reunião interna,Baixa,12/01/2025,10/01/2025,Concluída,Reunião Geral
+35,Rafael,Whatsapp,Baixa,12/01/2025,11/01/2025,Concluída,
+49,Pedro,Reunião interna,Média,12/01/2025,13/01/2025,Concluída,Reunião de Time
+12,Carlos,Reunião com o cliente,Média,12/01/2025,15/01/2025,Concluída,Revisão Estratégica
+81,Carlos,Reunião interna,Média,12/01/2025,17/01/2025,Concluída,Reunião Geral
+2,Carlos,Reunião interna,Alta,12/01/2025,17/01/2025,Concluída,Problema Técnico
+37,Carlos,Reunião com o cliente,Alta,12/01/2025,19/01/2025,Concluída,Treinamento
+2,Carlos,Reunião com o cliente,Alta,12/01/2025,20/01/2025,Concluída,Treinamento
+51,Ana,Reunião com o cliente,Média,12/01/2025,21/01/2025,Concluída,Treinamento
+64,Pedro,Whatsapp,Baixa,12/01/2025,22/01/2025,Concluída,
+88,Rafael,Atividade,Baixa,12/01/2025,,Vencida,
+51,Ana,Whatsapp,Baixa,13/01/2025,09/01/2025,Concluída,
+11,Ana,Reunião com o cliente,Alta,13/01/2025,10/01/2025,Concluída,Problemas Técnicos
+16,Ana,Reunião com o cliente,Alta,13/01/2025,13/01/2025,Concluída,Problemas Técnicos
+33,Mariana,Reunião com o cliente,Alta,13/01/2025,13/01/2025,Concluída,
+17,Carlos,Whatsapp,Alta,13/01/2025,14/01/2025,Concluída,
+18,Mariana,Reunião com o cliente,Alta,13/01/2025,17/01/2025,Concluída,
+70,Rafael,Atividade,Média,13/01/2025,18/01/2025,Concluída,
+9,Pedro,Reunião com o cliente,Média,13/01/2025,19/01/2025,Concluída,
+14,Pedro,Reunião com o cliente,Alta,13/01/2025,21/01/2025,Concluída,Treinamento
+69,Pedro,Whatsapp,Alta,13/01/2025,,Vencida,
+14,Pedro,E-mail,Baixa,14/01/2025,11/01/2025,Concluída,
+79,Ana,Reunião com o cliente,Alta,14/01/2025,14/01/2025,Concluída,Capacitação
+41,Ana,Reunião interna,Média,14/01/2025,15/01/2025,Concluída,
+16,Ana,Reunião com o cliente,Média,14/01/2025,16/01/2025,Concluída,Revisão Estratégica
+4,Pedro,Whatsapp,Baixa,14/01/2025,16/01/2025,Concluída,
+12,Carlos,E-mail,Média,14/01/2025,19/01/2025,Concluída,
+21,Ana,Reunião interna,Média,14/01/2025,20/01/2025,Concluída,Reunião de Time
+74,Pedro,Reunião com o cliente,Baixa,14/01/2025,21/01/2025,Concluída,Revisão Estratégica
+55,Rafael,Reunião com o cliente,Alta,14/01/2025,23/01/2025,Concluída,Problemas Técnicos
+32,Carlos,Ligação,Alta,14/01/2025,,Vencida,
+21,Ana,Tarefa,Baixa,14/01/2025,,Vencida,
+24,Pedro,Tarefa,Média,14/01/2025,,Vencida,
+6,Ana,Tarefa,Média,15/01/2025,12/01/2025,Concluída,
+28,Mariana,Atividade,Alta,15/01/2025,13/01/2025,Concluída,
+56,Ana,Reunião interna,Alta,15/01/2025,17/01/2025,Concluída,Reunião Geral
+26,Ana,Reunião com o cliente,Alta,15/01/2025,18/01/2025,Concluída,Problemas Técnicos
+14,Pedro,Whatsapp,Média,15/01/2025,21/01/2025,Concluída,
+76,Ana,Ligação,Alta,15/01/2025,23/01/2025,Concluída,
+20,Rafael,Reunião com o cliente,Baixa,15/01/2025,24/01/2025,Concluída,Treinamento
+80,Ana,Tarefa,Média,15/01/2025,,Vencida,
+13,Mariana,Whatsapp,Baixa,15/01/2025,,Vencida,
+55,Rafael,Reunião com o cliente,Baixa,16/01/2025,16/01/2025,Concluída,Treinamento
+61,Ana,Reunião com o cliente,Alta,16/01/2025,17/01/2025,Concluída,Treinamento
+23,Mariana,Reunião interna,Média,16/01/2025,17/01/2025,Concluída,Reunião Geral
+68,Mariana,E-mail,Baixa,16/01/2025,21/01/2025,Concluída,
+62,Carlos,Reunião interna,Alta,16/01/2025,24/01/2025,Concluída,Reunião Geral
+80,Ana,Reunião com o cliente,Alta,17/01/2025,13/01/2025,Concluída,problema técnico
+70,Rafael,Reunião com o cliente,Alta,17/01/2025,14/01/2025,Concluída,Revisão Estratégica
+21,Ana,E-mail,Média,17/01/2025,16/01/2025,Concluída,
+5,Rafael,Reunião com o cliente,Média,17/01/2025,17/01/2025,Concluída,Revisão Estratégica
+16,Ana,Whatsapp,Baixa,17/01/2025,18/01/2025,Concluída,
+9,Pedro,Reunião com o cliente,Alta,17/01/2025,19/01/2025,Concluída,Problemas Técnicos
+19,Pedro,Reunião com o cliente,Baixa,17/01/2025,20/01/2025,Concluída,Treinamento
+43,Mariana,Atividade,Média,17/01/2025,22/01/2025,Concluída,
+23,Mariana,Reunião interna,Baixa,17/01/2025,24/01/2025,Concluída,Reunião Geral
+14,Pedro,Reunião interna,Média,17/01/2025,,Vencida,
+39,Pedro,Reunião com o cliente,Alta,17/01/2025,,Vencida,
+82,Carlos,Reunião com o cliente,Alta,18/01/2025,15/01/2025,Concluída,Revisão Estratégica
+5,Rafael,Reunião com o cliente,Baixa,18/01/2025,18/01/2025,Concluída,Treinamento
+1,Ana,Reunião com o cliente,Alta,18/01/2025,19/01/2025,Concluída,Problema Técnico
+72,Carlos,Ligação,Alta,18/01/2025,20/01/2025,Concluída,
+13,Mariana,Reunião interna,Média,18/01/2025,20/01/2025,Concluída,Reunião de Time
+65,Rafael,Reunião com o cliente,Baixa,18/01/2025,21/01/2025,Concluída,
+6,Ana,Reunião com o cliente,Média,18/01/2025,25/01/2025,Concluída,Treinamento
+5,Rafael,Whatsapp,Baixa,18/01/2025,26/01/2025,Concluída,
+88,Rafael,Reunião com o cliente,Baixa,18/01/2025,27/01/2025,Concluída,Treinamento
+13,Mariana,Reunião interna,Média,18/01/2025,27/01/2025,Concluída,Reunião de Time
+54,Pedro,E-mail,Baixa,18/01/2025,,Vencida,
+36,Ana,E-mail,Média,18/01/2025,,Vencida,
+19,Pedro,Reunião interna,Média,18/01/2025,,Vencida,
+22,Carlos,Tarefa,Média,19/01/2025,16/01/2025,Concluída,
+58,Mariana,Ligação,Baixa,19/01/2025,17/01/2025,Concluída,
+24,Pedro,Tarefa,Alta,19/01/2025,18/01/2025,Concluída,
+21,Ana,E-mail,Alta,19/01/2025,19/01/2025,Concluída,
+87,Rafael,Reunião com o cliente,Baixa,19/01/2025,23/01/2025,Concluída,Treinamento
+15,Rafael,Reunião com o cliente,Baixa,19/01/2025,27/01/2025,Concluída,Treinamento
+19,Pedro,Reunião interna,Alta,19/01/2025,28/01/2025,Concluída,Treinamento de Produto
+86,Carlos,Reunião com o cliente,Média,19/01/2025,29/01/2025,Concluída,Treinamento
+82,Carlos,Atividade,Alta,19/01/2025,,Vencida,
+13,Mariana,Tarefa,Alta,19/01/2025,,Vencida,
+23,Mariana,E-mail,Baixa,20/01/2025,19/01/2025,Concluída,
+5,Rafael,Reunião com o cliente,Alta,20/01/2025,20/01/2025,Concluída,Revisão Estratégica
+43,Mariana,Atividade,Baixa,20/01/2025,23/01/2025,Concluída,
+15,Rafael,Reunião com o cliente,Baixa,20/01/2025,23/01/2025,Concluída,Treinamento
+12,Carlos,Atividade,Baixa,20/01/2025,27/01/2025,Concluída,
+40,Rafael,Ligação,Alta,20/01/2025,27/01/2025,Concluída,
+74,Pedro,Tarefa,Baixa,20/01/2025,,Vencida,
+1,Ana,Reunião interna,Alta,21/01/2025,18/01/2025,Concluída,
+21,Ana,Ligação,Alta,21/01/2025,20/01/2025,Concluída,
+15,Rafael,Reunião com o cliente,Baixa,21/01/2025,22/01/2025,Concluída,Revisão Estratégica
+50,Rafael,Reunião com o cliente,Alta,21/01/2025,22/01/2025,Concluída,Problemas Técnicos
+26,Ana,Reunião interna,Média,21/01/2025,22/01/2025,Concluída,
+52,Carlos,Reunião com o cliente,Média,21/01/2025,23/01/2025,Concluída,Revisão Estratégica
+28,Mariana,Reunião com o cliente,Baixa,21/01/2025,23/01/2025,Concluída,Treinamento
+60,Rafael,Whatsapp,Baixa,21/01/2025,26/01/2025,Concluída,
+73,Mariana,Reunião com o cliente,Alta,21/01/2025,27/01/2025,Concluída,Problemas Técnicos
+77,Ana,Reunião com o cliente,Alta,21/01/2025,28/01/2025,Concluída,problema técnico
+21,Ana,Reunião com o cliente,Alta,21/01/2025,28/01/2025,Concluída,Problemas Técnicos
+86,Carlos,Tarefa,Alta,21/01/2025,29/01/2025,Concluída,
+55,Rafael,Whatsapp,Alta,21/01/2025,29/01/2025,Concluída,
+30,Rafael,E-mail,Alta,21/01/2025,30/01/2025,Concluída,
+73,Mariana,E-mail,Baixa,21/01/2025,31/01/2025,Concluída,
+23,Mariana,Reunião interna,Média,21/01/2025,31/01/2025,Concluída,Reunião Geral
+83,Mariana,Reunião interna,Baixa,21/01/2025,,Vencida,
+48,Mariana,Atividade,Alta,21/01/2025,,Vencida,
+56,Ana,Reunião com o cliente,Baixa,22/01/2025,19/01/2025,Concluída,
+47,Carlos,Reunião interna,Média,22/01/2025,20/01/2025,Concluída,Reunião de Time
+82,Carlos,Reunião com o cliente,Baixa,22/01/2025,21/01/2025,Concluída,
+31,Ana,Ligação,Média,22/01/2025,29/01/2025,Concluída,
+22,Carlos,Reunião com o cliente,Alta,22/01/2025,29/01/2025,Concluída,Revisão Estratégica
+21,Ana,Ligação,Baixa,22/01/2025,31/01/2025,Concluída,
+11,Ana,Reunião interna,Média,22/01/2025,01/02/2025,Concluída,
+9,Pedro,Whatsapp,Baixa,22/01/2025,01/02/2025,Concluída,
+66,Ana,E-mail,Alta,22/01/2025,,Vencida,
+4,Pedro,Tarefa,Média,22/01/2025,,Vencida,
+4,Pedro,Reunião interna,Média,23/01/2025,20/01/2025,Concluída,Reunião de Time
+5,Rafael,Atividade,Alta,23/01/2025,22/01/2025,Concluída,
+7,Carlos,Reunião com o cliente,Média,23/01/2025,22/01/2025,Concluída,Revisão Estratégica
+2,Carlos,Whatsapp,Baixa,23/01/2025,22/01/2025,Concluída,
+36,Ana,Reunião interna,Baixa,23/01/2025,24/01/2025,Concluída,Reunião Geral
+71,Ana,Reunião com o cliente,Baixa,23/01/2025,25/01/2025,Concluída,Treinamento
+7,Carlos,Reunião com o cliente,Alta,23/01/2025,29/01/2025,Concluída,Problema técnico
+13,Mariana,Tarefa,Baixa,23/01/2025,,Vencida,
+4,Pedro,Tarefa,Média,23/01/2025,,Vencida,
+14,Pedro,Atividade,Média,23/01/2025,,Vencida,
+44,Pedro,Atividade,Alta,23/01/2025,,Vencida,
+21,Ana,Reunião com o cliente,Média,24/01/2025,20/01/2025,Concluída,
+8,Mariana,Reunião com o cliente,Alta,24/01/2025,21/01/2025,Concluída,Problemas Técnicos
+69,Pedro,Reunião com o cliente,Média,24/01/2025,21/01/2025,Concluída,Treinamento
+61,Ana,Whatsapp,Baixa,24/01/2025,22/01/2025,Concluída,
+4,Pedro,Reunião interna,Média,24/01/2025,24/01/2025,Concluída,Reunião Geral
+19,Pedro,Reunião com o cliente,Média,24/01/2025,27/01/2025,Concluída,Treinamento
+16,Ana,E-mail,Alta,24/01/2025,29/01/2025,Concluída,
+38,Mariana,Reunião com o cliente,Baixa,24/01/2025,29/01/2025,Concluída,Treinamento
+81,Carlos,E-mail,Média,24/01/2025,30/01/2025,Concluída,
+76,Ana,Reunião com o cliente,Alta,24/01/2025,01/02/2025,Concluída,Problemas Técnicos
+6,Ana,Whatsapp,Média,24/01/2025,01/02/2025,Concluída,
+24,Pedro,Reunião com o cliente,Média,24/01/2025,02/02/2025,Concluída,Revisão Estratégica
+74,Pedro,Reunião interna,Média,24/01/2025,03/02/2025,Concluída,Reunião de Time
+77,Ana,Atividade,Alta,24/01/2025,,Vencida,
+17,Carlos,Atividade,Baixa,24/01/2025,,Vencida,
+37,Carlos,Atividade,Baixa,24/01/2025,,Vencida,
+4,Pedro,Reunião interna,Média,24/01/2025,,Vencida,
+24,Pedro,Whatsapp,Baixa,25/01/2025,23/01/2025,Concluída,
+11,Ana,Ligação,Alta,25/01/2025,24/01/2025,Concluída,
+51,Ana,Reunião com o cliente,Alta,25/01/2025,26/01/2025,Concluída,problema técnico
+21,Ana,Atividade,Alta,25/01/2025,27/01/2025,Concluída,
+5,Rafael,Reunião interna,Baixa,25/01/2025,27/01/2025,Concluída,Reunião de Time
+48,Mariana,Reunião com o cliente,Média,25/01/2025,28/01/2025,Concluída,Treinamento
+18,Mariana,Reunião interna,Alta,25/01/2025,30/01/2025,Concluída,
+4,Pedro,Reunião interna,Média,25/01/2025,31/01/2025,Concluída,Reunião Geral
+1,Ana,E-mail,Baixa,25/01/2025,01/02/2025,Concluída,
+41,Ana,Atividade,Alta,25/01/2025,,Vencida,
+10,Rafael,Ligação,Média,25/01/2025,,Vencida,
+34,Pedro,E-mail,Média,25/01/2025,,Vencida,
+9,Pedro,Reunião com o cliente,Média,25/01/2025,,Vencida,
+20,Rafael,Reunião com o cliente,Alta,26/01/2025,25/01/2025,Concluída,Problemas Técnicos
+7,Carlos,Atividade,Média,26/01/2025,28/01/2025,Concluída,
+4,Pedro,Reunião com o cliente,Alta,26/01/2025,28/01/2025,Concluída,Revisão Estratégica
+77,Ana,Reunião com o cliente,Baixa,26/01/2025,29/01/2025,Concluída,
+79,Ana,Tarefa,Alta,26/01/2025,29/01/2025,Concluída,
+1,Ana,E-mail,Baixa,26/01/2025,31/01/2025,Concluída,
+16,Ana,Reunião com o cliente,Alta,26/01/2025,02/02/2025,Concluída,Revisão Estratégica
+11,Ana,Reunião interna,Alta,27/01/2025,25/01/2025,Concluída,Problemas Técnicos
+90,Rafael,Reunião com o cliente,Alta,27/01/2025,26/01/2025,Concluída,Revisão Estratégica
+6,Ana,Reunião interna,Alta,27/01/2025,27/01/2025,Concluída,Reunião de Time
+14,Pedro,Reunião interna,Média,27/01/2025,27/01/2025,Concluída,Reunião de Time
+28,Mariana,Reunião com o cliente,Baixa,27/01/2025,28/01/2025,Concluída,Treinamento
+11,Ana,Reunião interna,Alta,27/01/2025,28/01/2025,Concluída,Treinamento de Produto
+31,Ana,Reunião interna,Baixa,27/01/2025,29/01/2025,Concluída,
+6,Ana,Whatsapp,Alta,27/01/2025,29/01/2025,Concluída,
+53,Mariana,Reunião com o cliente,Alta,27/01/2025,31/01/2025,Concluída,Revisão Estratégica
+55,Rafael,Reunião com o cliente,Alta,27/01/2025,31/01/2025,Concluída,Problemas Técnicos
+35,Rafael,Reunião com o cliente,Média,27/01/2025,02/02/2025,Concluída,Treinamento
+58,Mariana,Ligação,Alta,27/01/2025,03/02/2025,Concluída,
+24,Pedro,E-mail,Média,27/01/2025,04/02/2025,Concluída,
+38,Mariana,Atividade,Média,27/01/2025,,Vencida,
+9,Pedro,Atividade,Baixa,27/01/2025,,Vencida,
+19,Pedro,Reunião interna,Média,27/01/2025,,Vencida,
+19,Pedro,Reunião com o cliente,Baixa,28/01/2025,24/01/2025,Concluída,
+33,Mariana,Whatsapp,Alta,28/01/2025,24/01/2025,Concluída,
+76,Ana,Reunião com o cliente,Média,28/01/2025,28/01/2025,Concluída,Treinamento
+29,Pedro,Ligação,Alta,28/01/2025,29/01/2025,Concluída,
+18,Mariana,Reunião com o cliente,Baixa,28/01/2025,30/01/2025,Concluída,Revisão Estratégica
+61,Ana,Reunião interna,Alta,28/01/2025,02/02/2025,Concluída,Problemas Técnicos
+42,Carlos,Reunião interna,Baixa,28/01/2025,03/02/2025,Concluída,Reunião de Time
+8,Mariana,Atividade,Alta,28/01/2025,05/02/2025,Concluída,
+54,Pedro,Reunião com o cliente,Alta,28/01/2025,05/02/2025,Concluída,Problemas Técnicos
+37,Carlos,Atividade,Baixa,28/01/2025,06/02/2025,Concluída,
+69,Pedro,Reunião com o cliente,Média,28/01/2025,,Vencida,
+2,Carlos,Atividade,Baixa,29/01/2025,28/01/2025,Concluída,
+40,Rafael,Reunião interna,Média,29/01/2025,28/01/2025,Concluída,Treinamento de Produto
+81,Carlos,Reunião com o cliente,Baixa,29/01/2025,30/01/2025,Concluída,Treinamento
+1,Ana,E-mail,Média,29/01/2025,05/02/2025,Concluída,
+61,Ana,Reunião interna,Alta,29/01/2025,05/02/2025,Concluída,
+84,Ana,Atividade,Baixa,29/01/2025,06/02/2025,Concluída,
+56,Ana,Whatsapp,Média,29/01/2025,06/02/2025,Concluída,
+11,Ana,E-mail,Média,29/01/2025,07/02/2025,Concluída,
+71,Ana,Whatsapp,Média,29/01/2025,08/02/2025,Concluída,
+38,Mariana,Tarefa,Média,29/01/2025,,Vencida,
+19,Pedro,Atividade,Média,29/01/2025,,Vencida,
+72,Carlos,Reunião com o cliente,Alta,30/01/2025,27/01/2025,Concluída,Treinamento
+22,Carlos,Reunião interna,Média,30/01/2025,27/01/2025,Concluída,Reunião de Time
+21,Ana,E-mail,Alta,30/01/2025,28/01/2025,Concluída,
+23,Mariana,Reunião interna,Média,30/01/2025,28/01/2025,Concluída,Treinamento de Produto
+18,Mariana,E-mail,Baixa,30/01/2025,31/01/2025,Concluída,
+1,Ana,Reunião interna,Alta,30/01/2025,31/01/2025,Concluída,Problemas Técnicos
+31,Ana,Reunião interna,Alta,30/01/2025,01/02/2025,Concluída,
+5,Rafael,Ligação,Média,30/01/2025,03/02/2025,Concluída,
+4,Pedro,Reunião com o cliente,Alta,30/01/2025,07/02/2025,Concluída,Problema técnico
+3,Mariana,Reunião interna,Média,30/01/2025,07/02/2025,Concluída,Reunião Geral
+74,Pedro,E-mail,Baixa,30/01/2025,,Vencida,
+51,Ana,Reunião com o cliente,Baixa,31/01/2025,27/01/2025,Concluída,Treinamento
+26,Ana,Reunião interna,Alta,31/01/2025,28/01/2025,Concluída,Problemas Técnicos
+12,Carlos,Reunião interna,Alta,31/01/2025,28/01/2025,Concluída,Treinamento de Produto
+8,Mariana,Reunião com o cliente,Média,31/01/2025,30/01/2025,Concluída,Treinamento
+11,Ana,Reunião com o cliente,Alta,31/01/2025,03/02/2025,Concluída,Problemas Técnicos
+51,Ana,Reunião interna,Alta,31/01/2025,05/02/2025,Concluída,
+21,Ana,Reunião com o cliente,Alta,31/01/2025,06/02/2025,Concluída,Problemas Técnicos
+56,Ana,Ligação,Alta,31/01/2025,07/02/2025,Concluída,
+71,Ana,Reunião com o cliente,Alta,31/01/2025,08/02/2025,Concluída,problema técnico
+25,Rafael,Reunião com o cliente,Alta,31/01/2025,08/02/2025,Concluída,Treinamento
+42,Carlos,Reunião interna,Média,31/01/2025,10/02/2025,Concluída,Reunião de Time
+42,Carlos,Tarefa,Alta,31/01/2025,,Vencida,
+4,Pedro,Reunião com o cliente,Média,31/01/2025,,Vencida,Não realizada
+44,Pedro,Reunião com o cliente,Baixa,31/01/2025,,Vencida,
+20,Rafael,Tarefa,Alta,31/01/2025,,Vencida,
+6,Ana,Tarefa,Média,01/02/2025,28/01/2025,Concluída,
+10,Rafael,Whatsapp,Média,01/02/2025,28/01/2025,Concluída,
+76,Ana,Reunião interna,Baixa,01/02/2025,31/01/2025,Concluída,Reunião Geral
+17,Carlos,Tarefa,Baixa,01/02/2025,02/02/2025,Concluída,
+16,Ana,Ligação,Média,01/02/2025,03/02/2025,Concluída,
+76,Ana,Reunião com o cliente,Baixa,01/02/2025,06/02/2025,Concluída,Treinamento
+10,Rafael,Atividade,Baixa,01/02/2025,07/02/2025,Concluída,
+20,Rafael,Atividade,Alta,01/02/2025,07/02/2025,Concluída,
+51,Ana,Reunião com o cliente,Alta,01/02/2025,07/02/2025,Concluída,Problemas Técnicos
+15,Rafael,Reunião com o cliente,Baixa,01/02/2025,07/02/2025,Concluída,Revisão Estratégica
+9,Pedro,E-mail,Alta,01/02/2025,09/02/2025,Concluída,
+38,Mariana,Reunião interna,Alta,01/02/2025,10/02/2025,Concluída,Treinamento de Produto
+37,Carlos,Tarefa,Baixa,01/02/2025,10/02/2025,Concluída,
+27,Carlos,Reunião com o cliente,Alta,01/02/2025,11/02/2025,Concluída,problema técnico
+38,Mariana,Reunião com o cliente,Alta,01/02/2025,11/02/2025,Concluída,Treinamento
+9,Pedro,Atividade,Baixa,01/02/2025,,Vencida,
+40,Rafael,Ligação,Baixa,02/02/2025,30/01/2025,Concluída,
+3,Mariana,E-mail,Baixa,02/02/2025,02/02/2025,Concluída,
+16,Ana,Reunião com o cliente,Alta,02/02/2025,05/02/2025,Concluída,Problemas Técnicos
+36,Ana,Reunião com o cliente,Alta,02/02/2025,05/02/2025,Concluída,problema técnico
+18,Mariana,E-mail,Alta,02/02/2025,06/02/2025,Concluída,
+26,Ana,Whatsapp,Alta,02/02/2025,06/02/2025,Concluída,
+24,Pedro,Whatsapp,Baixa,02/02/2025,07/02/2025,Concluída,
+65,Rafael,Reunião com o cliente,Baixa,02/02/2025,08/02/2025,Concluída,Revisão Estratégica
+65,Rafael,Reunião com o cliente,Média,02/02/2025,09/02/2025,Concluída,Treinamento
+11,Ana,Reunião interna,Alta,02/02/2025,10/02/2025,Concluída,Reunião de Time
+14,Pedro,Reunião com o cliente,Alta,02/02/2025,12/02/2025,Concluída,problema técnico
+7,Carlos,Atividade,Alta,02/02/2025,,Vencida,
+2,Carlos,Reunião interna,Alta,02/02/2025,,Vencida,
+44,Pedro,E-mail,Baixa,02/02/2025,,Vencida,
+44,Pedro,Reunião com o cliente,Baixa,02/02/2025,,Vencida,Não realizada
+71,Ana,Reunião com o cliente,Alta,03/02/2025,01/02/2025,Concluída,Problemas Técnicos
+12,Carlos,Reunião com o cliente,Alta,03/02/2025,02/02/2025,Concluída,
+21,Ana,Atividade,Alta,03/02/2025,03/02/2025,Concluída,
+38,Mariana,Reunião interna,Média,03/02/2025,03/02/2025,Concluída,Reunião de Time
+87,Rafael,Atividade,Média,03/02/2025,07/02/2025,Concluída,
+69,Pedro,Reunião interna,Baixa,03/02/2025,07/02/2025,Concluída,Reunião Geral
+16,Ana,Reunião com o cliente,Alta,03/02/2025,08/02/2025,Concluída,Problemas Técnicos
+10,Rafael,Atividade,Média,03/02/2025,09/02/2025,Concluída,
+3,Mariana,Reunião com o cliente,Baixa,03/02/2025,09/02/2025,Concluída,Treinamento
+58,Mariana,Whatsapp,Baixa,03/02/2025,10/02/2025,Concluída,
+11,Ana,Reunião com o cliente,Alta,03/02/2025,12/02/2025,Concluída,Problemas Técnicos
+17,Carlos,Tarefa,Alta,03/02/2025,12/02/2025,Concluída,
+22,Carlos,Reunião interna,Média,04/02/2025,31/01/2025,Concluída,Reunião Geral
+24,Pedro,Reunião com o cliente,Alta,04/02/2025,05/02/2025,Concluída,Problema Técnico
+31,Ana,Reunião interna,Alta,04/02/2025,08/02/2025,Concluída,Problema Técnico
+2,Carlos,Atividade,Baixa,04/02/2025,10/02/2025,Concluída,
+8,Mariana,Reunião com o cliente,Alta,04/02/2025,11/02/2025,Concluída,Problemas Técnicos
+5,Rafael,Whatsapp,Alta,04/02/2025,,Vencida,
+17,Carlos,Whatsapp,Média,05/02/2025,02/02/2025,Concluída,
+16,Ana,Whatsapp,Média,05/02/2025,05/02/2025,Concluída,
+1,Ana,Reunião com o cliente,Alta,05/02/2025,06/02/2025,Concluída,Problema técnico
+9,Pedro,Reunião com o cliente,Alta,05/02/2025,07/02/2025,Concluída,Revisão Estratégica
+80,Ana,E-mail,Baixa,05/02/2025,09/02/2025,Concluída,
+63,Mariana,Reunião interna,Baixa,05/02/2025,10/02/2025,Concluída,Reunião de Time
+35,Rafael,Ligação,Alta,05/02/2025,11/02/2025,Concluída,
+18,Mariana,E-mail,Alta,05/02/2025,12/02/2025,Concluída,
+64,Pedro,Atividade,Média,06/02/2025,03/02/2025,Concluída,
+83,Mariana,Reunião com o cliente,Alta,06/02/2025,05/02/2025,Concluída,Revisão Estratégica
+23,Mariana,Whatsapp,Alta,06/02/2025,05/02/2025,Concluída,
+61,Ana,Reunião com o cliente,Baixa,06/02/2025,07/02/2025,Concluída,Treinamento
+76,Ana,Reunião com o cliente,Baixa,06/02/2025,08/02/2025,Concluída,Treinamento
+12,Carlos,Reunião com o cliente,Alta,06/02/2025,08/02/2025,Concluída,Revisão Estratégica
+93,Ana,Tarefa,Baixa,06/02/2025,11/02/2025,Concluída,
+91,Ana,Whatsapp,Alta,06/02/2025,11/02/2025,Concluída,
+39,Pedro,Reunião com o cliente,Alta,06/02/2025,12/02/2025,Concluída,Treinamento
+8,Mariana,Atividade,Baixa,06/02/2025,14/02/2025,Concluída,
+5,Rafael,Reunião com o cliente,Alta,06/02/2025,15/02/2025,Concluída,Treinamento
+5,Rafael,E-mail,Média,06/02/2025,,Vencida,
+31,Ana,Reunião com o cliente,Alta,06/02/2025,,Vencida,No Show
+9,Pedro,Reunião com o cliente,Alta,06/02/2025,,Vencida,Cliente não entrou
+5,Rafael,Atividade,Média,06/02/2025,,Vencida,
+56,Ana,Reunião interna,Média,07/02/2025,03/02/2025,Concluída,Reunião de Time
+36,Ana,Reunião interna,Baixa,07/02/2025,04/02/2025,Concluída,
+22,Carlos,Tarefa,Média,07/02/2025,05/02/2025,Concluída,
+21,Ana,E-mail,Baixa,07/02/2025,07/02/2025,Concluída,
+6,Ana,Reunião interna,Alta,07/02/2025,07/02/2025,Concluída,
+72,Carlos,Reunião interna,Baixa,07/02/2025,07/02/2025,Concluída,Reunião Geral
+23,Mariana,Reunião com o cliente,Baixa,07/02/2025,16/02/2025,Concluída,Treinamento
+17,Carlos,Reunião com o cliente,Média,07/02/2025,17/02/2025,Concluída,
+10,Rafael,Atividade,Baixa,07/02/2025,,Vencida,
+22,Carlos,E-mail,Média,07/02/2025,,Vencida,
+21,Ana,Reunião interna,Média,07/02/2025,,Vencida,
+23,Mariana,Tarefa,Baixa,07/02/2025,,Vencida,
+49,Pedro,Reunião com o cliente,Alta,07/02/2025,,Vencida,
+60,Rafael,Reunião com o cliente,Alta,08/02/2025,04/02/2025,Concluída,Problemas Técnicos
+81,Carlos,Reunião com o cliente,Alta,08/02/2025,05/02/2025,Concluída,Treinamento
+3,Mariana,Reunião com o cliente,Baixa,08/02/2025,05/02/2025,Concluída,Revisão Estratégica
+8,Mariana,Reunião com o cliente,Alta,08/02/2025,06/02/2025,Concluída,Revisão Estratégica
+21,Ana,Reunião interna,Baixa,08/02/2025,07/02/2025,Concluída,Reunião Geral
+36,Ana,Ligação,Baixa,08/02/2025,10/02/2025,Concluída,
+60,Rafael,Atividade,Alta,08/02/2025,11/02/2025,Concluída,
+80,Ana,Reunião com o cliente,Alta,08/02/2025,14/02/2025,Concluída,problema técnico
+3,Mariana,Reunião interna,Alta,08/02/2025,14/02/2025,Concluída,Problema Técnico
+33,Mariana,Reunião interna,Alta,08/02/2025,14/02/2025,Concluída,Reunião Geral
+9,Pedro,Reunião interna,Baixa,08/02/2025,14/02/2025,Concluída,Reunião Geral
+71,Ana,Atividade,Baixa,08/02/2025,15/02/2025,Concluída,
+61,Ana,Reunião interna,Baixa,08/02/2025,17/02/2025,Concluída,Reunião de Time
+19,Pedro,Reunião com o cliente,Baixa,08/02/2025,,Vencida,
+21,Ana,E-mail,Média,09/02/2025,06/02/2025,Concluída,
+23,Mariana,Reunião com o cliente,Média,09/02/2025,09/02/2025,Concluída,Revisão Estratégica
+17,Carlos,Atividade,Média,09/02/2025,10/02/2025,Concluída,
+76,Ana,Reunião com o cliente,Alta,09/02/2025,12/02/2025,Concluída,Problemas Técnicos
+21,Ana,Whatsapp,Alta,09/02/2025,12/02/2025,Concluída,
+38,Mariana,Atividade,Alta,09/02/2025,13/02/2025,Concluída,
+41,Ana,Reunião com o cliente,Média,09/02/2025,13/02/2025,Concluída,Treinamento
+67,Carlos,Reunião interna,Alta,09/02/2025,14/02/2025,Concluída,Reunião Geral
+42,Carlos,Atividade,Alta,09/02/2025,17/02/2025,Concluída,
+27,Carlos,Reunião interna,Média,09/02/2025,17/02/2025,Concluída,Reunião de Time
+70,Rafael,Reunião interna,Alta,09/02/2025,17/02/2025,Concluída,Problema Técnico
+31,Ana,Reunião interna,Alta,09/02/2025,18/02/2025,Concluída,problema técnico
+61,Ana,Whatsapp,Baixa,10/02/2025,08/02/2025,Concluída,
+51,Ana,Reunião com o cliente,Alta,10/02/2025,10/02/2025,Concluída,Problemas Técnicos
+12,Carlos,Reunião com o cliente,Baixa,10/02/2025,15/02/2025,Concluída,Treinamento
+63,Mariana,Reunião com o cliente,Média,10/02/2025,17/02/2025,Concluída,Treinamento
+17,Carlos,Atividade,Média,10/02/2025,20/02/2025,Concluída,
+9,Pedro,E-mail,Baixa,10/02/2025,,Vencida,
+39,Pedro,Atividade,Alta,10/02/2025,,Vencida,
+11,Ana,Whatsapp,Baixa,11/02/2025,07/02/2025,Concluída,
+11,Ana,Reunião interna,Alta,11/02/2025,10/02/2025,Concluída,Treinamento de Produto
+66,Ana,Reunião com o cliente,Alta,11/02/2025,11/02/2025,Concluída,problema técnico
+13,Mariana,Reunião com o cliente,Alta,11/02/2025,13/02/2025,Concluída,Problemas Técnicos
+11,Ana,Reunião interna,Alta,11/02/2025,13/02/2025,Concluída,Problema Técnico
+43,Mariana,Reunião com o cliente,Baixa,11/02/2025,14/02/2025,Concluída,Revisão Estratégica
+19,Pedro,Reunião com o cliente,Média,11/02/2025,14/02/2025,Concluída,Treinamento
+4,Pedro,Reunião com o cliente,Alta,11/02/2025,14/02/2025,Concluída,Problema técnico
+35,Rafael,Reunião com o cliente,Baixa,11/02/2025,16/02/2025,Concluída,Revisão Estratégica
+63,Mariana,E-mail,Média,11/02/2025,17/02/2025,Concluída,
+4,Pedro,Reunião com o cliente,Alta,11/02/2025,17/02/2025,Concluída,Problema técnico
+45,Rafael,Reunião com o cliente,Baixa,11/02/2025,18/02/2025,Concluída,Revisão Estratégica
+91,Ana,Reunião com o cliente,Alta,11/02/2025,19/02/2025,Concluída,Problemas Técnicos
+68,Mariana,Whatsapp,Baixa,11/02/2025,19/02/2025,Concluída,
+22,Carlos,Reunião com o cliente,Baixa,11/02/2025,21/02/2025,Concluída,Treinamento
+53,Mariana,Reunião interna,Alta,11/02/2025,21/02/2025,Concluída,Reunião Geral
+24,Pedro,Reunião interna,Baixa,11/02/2025,21/02/2025,Concluída,Reunião Geral
+82,Carlos,Ligação,Baixa,11/02/2025,,Vencida,
+44,Pedro,Reunião interna,Alta,11/02/2025,,Vencida,
+56,Ana,Tarefa,Média,11/02/2025,,Vencida,
+9,Pedro,Whatsapp,Alta,11/02/2025,,Vencida,
+78,Ana,Reunião com o cliente,Alta,12/02/2025,08/02/2025,Concluída,problema técnico
+24,Pedro,Reunião com o cliente,Alta,12/02/2025,08/02/2025,Concluída,Problema técnico
+7,Carlos,Reunião interna,Média,12/02/2025,10/02/2025,Concluída,Treinamento de Produto
+61,Ana,Reunião com o cliente,Alta,12/02/2025,12/02/2025,Concluída,Problema técnico
+38,Mariana,Reunião com o cliente,Alta,12/02/2025,12/02/2025,Concluída,Treinamento
+25,Rafael,Reunião com o cliente,Alta,12/02/2025,12/02/2025,Concluída,Problemas Técnicos
+10,Rafael,Atividade,Média,12/02/2025,13/02/2025,Concluída,
+80,Ana,Reunião com o cliente,Alta,12/02/2025,15/02/2025,Concluída,Problema Técnico
+42,Carlos,Reunião interna,Baixa,12/02/2025,17/02/2025,Concluída,Treinamento de Produto
+12,Carlos,Reunião com o cliente,Alta,12/02/2025,18/02/2025,Concluída,Problema Técnico
+77,Ana,Reunião com o cliente,Alta,12/02/2025,19/02/2025,Concluída,Problema técnico
+62,Carlos,Reunião interna,Alta,12/02/2025,20/02/2025,Concluída,Problema Técnico
+21,Ana,Reunião interna,Alta,12/02/2025,21/02/2025,Concluída,Reunião Geral
+22,Carlos,Reunião interna,Alta,12/02/2025,21/02/2025,Concluída,Reunião Geral
+74,Pedro,Reunião com o cliente,Média,12/02/2025,,Vencida,No Show
+75,Rafael,Reunião interna,Baixa,13/02/2025,10/02/2025,Concluída,Reunião de Time
+11,Ana,Reunião interna,Baixa,13/02/2025,14/02/2025,Concluída,Reunião Geral
+6,Ana,E-mail,Alta,13/02/2025,16/02/2025,Concluída,
+44,Pedro,Reunião com o cliente,Baixa,13/02/2025,17/02/2025,Concluída,Revisão Estratégica
+7,Carlos,E-mail,Alta,13/02/2025,19/02/2025,Concluída,
+46,Ana,Reunião interna,Alta,13/02/2025,19/02/2025,Concluída,Problema Técnico
+79,Ana,Whatsapp,Alta,13/02/2025,19/02/2025,Concluída,
+36,Ana,Ligação,Alta,13/02/2025,21/02/2025,Concluída,
+36,Ana,Reunião com o cliente,Média,13/02/2025,,Vencida,
+69,Pedro,Tarefa,Baixa,13/02/2025,,Vencida,
+69,Pedro,Atividade,Média,13/02/2025,,Vencida,
+4,Pedro,Reunião interna,Alta,13/02/2025,,Vencida,
+19,Pedro,Reunião interna,Alta,14/02/2025,10/02/2025,Concluída,Treinamento de Produto
+39,Pedro,Reunião interna,Baixa,14/02/2025,10/02/2025,Concluída,Reunião de Time
+85,Rafael,Reunião com o cliente,Alta,14/02/2025,11/02/2025,Concluída,Treinamento
+45,Rafael,E-mail,Média,14/02/2025,13/02/2025,Concluída,
+1,Ana,Reunião com o cliente,Alta,14/02/2025,16/02/2025,Concluída,problema técnico
+37,Carlos,Reunião com o cliente,Baixa,14/02/2025,16/02/2025,Concluída,Revisão Estratégica
+80,Ana,Reunião com o cliente,Alta,14/02/2025,17/02/2025,Concluída,Problema técnico
+77,Ana,Reunião com o cliente,Alta,14/02/2025,19/02/2025,Concluída,
+59,Pedro,Reunião interna,Média,14/02/2025,,Vencida,
+56,Ana,Tarefa,Média,14/02/2025,,Vencida,
+39,Pedro,Whatsapp,Média,14/02/2025,,Vencida,
+23,Mariana,E-mail,Baixa,15/02/2025,11/02/2025,Concluída,
+4,Pedro,Reunião com o cliente,Média,15/02/2025,11/02/2025,Concluída,Treinamento
+52,Carlos,Reunião com o cliente,Alta,15/02/2025,12/02/2025,Concluída,Treinamento
+37,Carlos,Reunião interna,Baixa,15/02/2025,14/02/2025,Concluída,
+61,Ana,Atividade,Alta,15/02/2025,17/02/2025,Concluída,
+1,Ana,E-mail,Média,15/02/2025,17/02/2025,Concluída,
+72,Carlos,Reunião com o cliente,Alta,15/02/2025,18/02/2025,Concluída,Revisão Estratégica
+66,Ana,Whatsapp,Alta,15/02/2025,20/02/2025,Concluída,
+78,Ana,Ligação,Baixa,15/02/2025,,Vencida,
+4,Pedro,Reunião interna,Média,15/02/2025,,Vencida,
+31,Ana,E-mail,Baixa,16/02/2025,15/02/2025,Concluída,
+2,Carlos,E-mail,Alta,16/02/2025,17/02/2025,Concluída,
+56,Ana,Tarefa,Média,16/02/2025,17/02/2025,Concluída,
+50,Rafael,Ligação,Média,16/02/2025,18/02/2025,Concluída,
+6,Ana,Reunião interna,Alta,16/02/2025,18/02/2025,Concluída,Problemas Técnicos
+16,Ana,Tarefa,Média,16/02/2025,19/02/2025,Concluída,
+76,Ana,E-mail,Baixa,16/02/2025,22/02/2025,Concluída,
+36,Ana,Reunião com o cliente,Alta,16/02/2025,23/02/2025,Concluída,Problemas Técnicos
+4,Pedro,Whatsapp,Baixa,16/02/2025,,Vencida,
+18,Mariana,Reunião com o cliente,Média,17/02/2025,17/02/2025,Concluída,Revisão Estratégica
+71,Ana,Reunião com o cliente,Média,17/02/2025,19/02/2025,Concluída,
+67,Carlos,E-mail,Média,17/02/2025,20/02/2025,Concluída,
+77,Ana,Reunião com o cliente,Média,17/02/2025,23/02/2025,Concluída,
+81,Carlos,Reunião com o cliente,Baixa,17/02/2025,24/02/2025,Concluída,Treinamento
+19,Pedro,Reunião interna,Baixa,17/02/2025,,Vencida,
+2,Carlos,Tarefa,Alta,17/02/2025,,Vencida,
+14,Pedro,Tarefa,Média,17/02/2025,,Vencida,
+82,Carlos,E-mail,Média,18/02/2025,16/02/2025,Concluída,
+2,Carlos,Atividade,Alta,18/02/2025,17/02/2025,Concluída,
+7,Carlos,Ligação,Média,18/02/2025,17/02/2025,Concluída,
+70,Rafael,Reunião com o cliente,Alta,18/02/2025,17/02/2025,Concluída,Problemas Técnicos
+16,Ana,Reunião interna,Média,18/02/2025,17/02/2025,Concluída,
+39,Pedro,Reunião interna,Baixa,18/02/2025,17/02/2025,Concluída,Reunião de Time
+14,Pedro,Atividade,Média,18/02/2025,20/02/2025,Concluída,
+16,Ana,E-mail,Alta,18/02/2025,20/02/2025,Concluída,
+83,Mariana,Reunião com o cliente,Baixa,18/02/2025,20/02/2025,Concluída,Treinamento
+90,Rafael,Whatsapp,Baixa,18/02/2025,21/02/2025,Concluída,
+83,Mariana,Reunião interna,Baixa,18/02/2025,22/02/2025,Concluída,
+57,Carlos,Atividade,Média,18/02/2025,23/02/2025,Concluída,
+2,Carlos,E-mail,Baixa,18/02/2025,24/02/2025,Concluída,
+8,Mariana,Reunião interna,Média,18/02/2025,24/02/2025,Concluída,Reunião de Time
+13,Mariana,Reunião com o cliente,Baixa,19/02/2025,22/02/2025,Concluída,Treinamento
+70,Rafael,Reunião com o cliente,Alta,19/02/2025,24/02/2025,Concluída,Problemas Técnicos
+1,Ana,Reunião com o cliente,Alta,19/02/2025,25/02/2025,Concluída,problema técnico
+77,Ana,Reunião interna,Alta,19/02/2025,25/02/2025,Concluída,Problema Técnico
+62,Carlos,Atividade,Baixa,19/02/2025,26/02/2025,Concluída,
+6,Ana,Reunião com o cliente,Alta,19/02/2025,26/02/2025,Concluída,Problemas Técnicos
+31,Ana,Reunião interna,Alta,19/02/2025,26/02/2025,Concluída,
+83,Mariana,E-mail,Baixa,19/02/2025,28/02/2025,Concluída,
+21,Ana,E-mail,Alta,19/02/2025,,Vencida,
+39,Pedro,Reunião com o cliente,Alta,19/02/2025,,Vencida,
+1,Ana,Reunião interna,Alta,19/02/2025,,Vencida,
+19,Pedro,Whatsapp,Alta,19/02/2025,,Vencida,
+44,Pedro,Reunião com o cliente,Média,19/02/2025,,Vencida,
+74,Pedro,Reunião com o cliente,Média,19/02/2025,,Vencida,No Show
+38,Mariana,Reunião com o cliente,Baixa,20/02/2025,16/02/2025,Concluída,Treinamento
+9,Pedro,Whatsapp,Média,20/02/2025,16/02/2025,Concluída,
+18,Mariana,Reunião interna,Baixa,20/02/2025,17/02/2025,Concluída,Treinamento de Produto
+81,Carlos,Reunião com o cliente,Alta,20/02/2025,23/02/2025,Concluída,problema técnico
+68,Mariana,E-mail,Alta,20/02/2025,24/02/2025,Concluída,
+7,Carlos,Reunião interna,Alta,20/02/2025,24/02/2025,Concluída,Reunião de Time
+67,Carlos,Reunião com o cliente,Média,20/02/2025,26/02/2025,Concluída,Treinamento
+31,Ana,Reunião interna,Alta,20/02/2025,27/02/2025,Concluída,Problemas Técnicos
+83,Mariana,Reunião com o cliente,Baixa,20/02/2025,28/02/2025,Concluída,
+63,Mariana,Reunião interna,Média,20/02/2025,,Vencida,
+21,Ana,Tarefa,Média,20/02/2025,,Vencida,
+65,Rafael,Tarefa,Baixa,20/02/2025,,Vencida,
+76,Ana,Reunião interna,Alta,21/02/2025,17/02/2025,Concluída,Treinamento de Produto
+28,Mariana,Reunião interna,Alta,21/02/2025,17/02/2025,Concluída,Reunião de Time
+24,Pedro,Reunião interna,Alta,21/02/2025,17/02/2025,Concluída,Treinamento de Produto
+18,Mariana,E-mail,Baixa,21/02/2025,22/02/2025,Concluída,
+3,Mariana,Whatsapp,Alta,21/02/2025,23/02/2025,Concluída,
+34,Pedro,Atividade,Média,21/02/2025,26/02/2025,Concluída,
+10,Rafael,Atividade,Média,21/02/2025,26/02/2025,Concluída,
+45,Rafael,Reunião com o cliente,Alta,21/02/2025,27/02/2025,Concluída,Problemas Técnicos
+8,Mariana,E-mail,Média,21/02/2025,02/03/2025,Concluída,
+21,Ana,Ligação,Alta,21/02/2025,03/03/2025,Concluída,
+72,Carlos,Reunião interna,Média,21/02/2025,03/03/2025,Concluída,Reunião de Time
+9,Pedro,Atividade,Média,21/02/2025,,Vencida,
+54,Pedro,Ligação,Alta,21/02/2025,,Vencida,
+59,Pedro,Ligação,Alta,22/02/2025,18/02/2025,Concluída,
+40,Rafael,E-mail,Baixa,22/02/2025,19/02/2025,Concluída,
+19,Pedro,Whatsapp,Baixa,22/02/2025,20/02/2025,Concluída,
+64,Pedro,Reunião interna,Alta,22/02/2025,24/02/2025,Concluída,Reunião de Time
+56,Ana,Whatsapp,Baixa,22/02/2025,24/02/2025,Concluída,
+24,Pedro,Reunião com o cliente,Média,22/02/2025,27/02/2025,Concluída,Revisão Estratégica
+31,Ana,Tarefa,Alta,22/02/2025,27/02/2025,Concluída,
+18,Mariana,E-mail,Média,22/02/2025,28/02/2025,Concluída,
+46,Ana,Reunião interna,Alta,22/02/2025,28/02/2025,Concluída,Problemas Técnicos
+2,Carlos,Reunião interna,Alta,22/02/2025,28/02/2025,Concluída,Reunião Geral
+6,Ana,E-mail,Alta,22/02/2025,01/03/2025,Concluída,
+13,Mariana,Whatsapp,Baixa,22/02/2025,02/03/2025,Concluída,
+15,Rafael,Tarefa,Alta,22/02/2025,,Vencida,
+19,Pedro,Tarefa,Alta,22/02/2025,,Vencida,
+11,Ana,Reunião com o cliente,Alta,23/02/2025,19/02/2025,Concluída,Problemas Técnicos
+11,Ana,Whatsapp,Média,23/02/2025,20/02/2025,Concluída,
+1,Ana,Reunião com o cliente,Alta,23/02/2025,25/02/2025,Concluída,problema técnico
+12,Carlos,Tarefa,Baixa,23/02/2025,25/02/2025,Concluída,
+3,Mariana,Reunião com o cliente,Alta,23/02/2025,26/02/2025,Concluída,Treinamento
+76,Ana,Reunião com o cliente,Alta,23/02/2025,27/02/2025,Concluída,Revisão Estratégica
+39,Pedro,Reunião com o cliente,Alta,23/02/2025,27/02/2025,Concluída,Treinamento
+24,Pedro,Whatsapp,Baixa,23/02/2025,02/03/2025,Concluída,
+71,Ana,Ligação,Média,24/02/2025,21/02/2025,Concluída,
+57,Carlos,Reunião com o cliente,Alta,24/02/2025,23/02/2025,Concluída,problema técnico
+32,Carlos,Reunião com o cliente,Baixa,24/02/2025,25/02/2025,Concluída,Treinamento
+56,Ana,Reunião interna,Alta,24/02/2025,27/02/2025,Concluída,problema técnico
+61,Ana,Reunião interna,Alta,24/02/2025,27/02/2025,Concluída,Problemas Técnicos
+41,Ana,Reunião com o cliente,Média,24/02/2025,28/02/2025,Concluída,Capacitação
+23,Mariana,Ligação,Média,24/02/2025,01/03/2025,Concluída,
+78,Ana,Reunião com o cliente,Alta,24/02/2025,01/03/2025,Concluída,Problemas Técnicos
+8,Mariana,Reunião interna,Alta,24/02/2025,03/03/2025,Concluída,Reunião de Time
+61,Ana,Reunião interna,Alta,24/02/2025,05/03/2025,Concluída,Problemas Técnicos
+46,Ana,Atividade,Alta,24/02/2025,,Vencida,
+27,Carlos,Reunião com o cliente,Alta,25/02/2025,24/02/2025,Concluída,Treinamento
+77,Ana,Reunião interna,Média,25/02/2025,24/02/2025,Concluída,Reunião de Time
+83,Mariana,Reunião com o cliente,Baixa,25/02/2025,26/02/2025,Concluída,Revisão Estratégica
+11,Ana,Reunião interna,Média,25/02/2025,26/02/2025,Concluída,
+2,Carlos,Reunião com o cliente,Média,25/02/2025,27/02/2025,Concluída,Treinamento
+16,Ana,E-mail,Alta,25/02/2025,28/02/2025,Concluída,
+8,Mariana,Reunião interna,Alta,25/02/2025,28/02/2025,Concluída,Reunião Geral
+80,Ana,Reunião com o cliente,Alta,25/02/2025,03/03/2025,Concluída,problema técnico
+4,Pedro,Reunião interna,Baixa,25/02/2025,03/03/2025,Concluída,Treinamento de Produto
+19,Pedro,Reunião interna,Baixa,25/02/2025,07/03/2025,Concluída,Reunião Geral
+13,Mariana,Whatsapp,Baixa,25/02/2025,07/03/2025,Concluída,
+2,Carlos,E-mail,Baixa,25/02/2025,,Vencida,
+59,Pedro,Reunião interna,Média,25/02/2025,,Vencida,
+54,Pedro,Whatsapp,Média,25/02/2025,,Vencida,
+36,Ana,Ligação,Alta,26/02/2025,24/02/2025,Concluída,
+78,Ana,Reunião com o cliente,Alta,26/02/2025,25/02/2025,Concluída,Problema técnico
+43,Mariana,Reunião com o cliente,Alta,26/02/2025,27/02/2025,Concluída,Treinamento
+24,Pedro,Reunião com o cliente,Alta,26/02/2025,27/02/2025,Concluída,Problema Técnico
+5,Rafael,Whatsapp,Baixa,26/02/2025,28/02/2025,Concluída,
+33,Mariana,E-mail,Baixa,26/02/2025,03/03/2025,Concluída,
+11,Ana,Reunião interna,Baixa,26/02/2025,03/03/2025,Concluída,Reunião de Time
+56,Ana,Reunião interna,Alta,26/02/2025,03/03/2025,Concluída,Problema Técnico
+27,Carlos,Reunião com o cliente,Média,26/02/2025,04/03/2025,Concluída,Revisão Estratégica
+17,Carlos,Whatsapp,Alta,26/02/2025,04/03/2025,Concluída,
+36,Ana,Reunião com o cliente,Alta,26/02/2025,05/03/2025,Concluída,Problema técnico
+37,Carlos,Reunião com o cliente,Média,26/02/2025,08/03/2025,Concluída,Revisão Estratégica
+63,Mariana,Reunião com o cliente,Média,26/02/2025,08/03/2025,Concluída,Revisão Estratégica
+58,Mariana,Reunião com o cliente,Média,26/02/2025,,Vencida,Cliente não entrou
+83,Mariana,Atividade,Alta,26/02/2025,,Vencida,
+21,Ana,Tarefa,Baixa,27/02/2025,23/02/2025,Concluída,
+16,Ana,Ligação,Baixa,27/02/2025,24/02/2025,Concluída,
+50,Rafael,Reunião com o cliente,Alta,27/02/2025,26/02/2025,Concluída,Revisão Estratégica
+24,Pedro,Whatsapp,Alta,27/02/2025,03/03/2025,Concluída,
+73,Mariana,Atividade,Baixa,27/02/2025,07/03/2025,Concluída,
+2,Carlos,Reunião interna,Baixa,27/02/2025,07/03/2025,Concluída,Reunião Geral
+5,Rafael,E-mail,Baixa,27/02/2025,,Vencida,
+51,Ana,Reunião interna,Média,27/02/2025,,Vencida,
+7,Carlos,Reunião com o cliente,Alta,28/02/2025,26/02/2025,Concluída,problema técnico
+33,Mariana,Reunião com o cliente,Alta,28/02/2025,27/02/2025,Concluída,Treinamento
+5,Rafael,Whatsapp,Alta,28/02/2025,28/02/2025,Concluída,
+5,Rafael,E-mail,Média,28/02/2025,04/03/2025,Concluída,
+8,Mariana,Reunião com o cliente,Baixa,28/02/2025,04/03/2025,Concluída,Revisão Estratégica
+11,Ana,Whatsapp,Média,28/02/2025,04/03/2025,Concluída,
+11,Ana,Reunião com o cliente,Alta,28/02/2025,07/03/2025,Concluída,Problemas Técnicos
+76,Ana,Reunião com o cliente,Alta,28/02/2025,08/03/2025,Concluída,Problemas Técnicos
+9,Pedro,Reunião com o cliente,Baixa,28/02/2025,08/03/2025,Concluída,
+22,Carlos,Tarefa,Baixa,28/02/2025,,Vencida,
+36,Ana,Reunião com o cliente,Alta,01/03/2025,25/02/2025,Concluída,Problema Técnico
+76,Ana,Reunião interna,Baixa,01/03/2025,28/02/2025,Concluída,Reunião Geral
+19,Pedro,Reunião com o cliente,Alta,01/03/2025,01/03/2025,Concluída,
+8,Mariana,Whatsapp,Alta,01/03/2025,01/03/2025,Concluída,
+17,Carlos,Reunião com o cliente,Média,01/03/2025,02/03/2025,Concluída,
+46,Ana,Tarefa,Alta,01/03/2025,04/03/2025,Concluída,
+56,Ana,Reunião interna,Baixa,01/03/2025,07/03/2025,Concluída,Reunião Geral
+23,Mariana,Reunião com o cliente,Alta,02/03/2025,26/02/2025,Concluída,Revisão Estratégica
+9,Pedro,Reunião interna,Média,02/03/2025,28/02/2025,Concluída,Reunião Geral
+26,Ana,Reunião com o cliente,Alta,02/03/2025,02/03/2025,Concluída,Problemas Técnicos
+43,Mariana,Reunião interna,Média,02/03/2025,03/03/2025,Concluída,Treinamento de Produto
+24,Pedro,Reunião interna,Média,02/03/2025,03/03/2025,Concluída,Reunião de Time
+72,Carlos,Reunião com o cliente,Média,02/03/2025,04/03/2025,Concluída,Revisão Estratégica
+69,Pedro,Whatsapp,Média,02/03/2025,06/03/2025,Concluída,
+3,Mariana,Ligação,Baixa,02/03/2025,07/03/2025,Concluída,
+42,Carlos,Atividade,Baixa,02/03/2025,08/03/2025,Concluída,
+37,Carlos,Reunião com o cliente,Alta,02/03/2025,09/03/2025,Concluída,Revisão Estratégica
+82,Carlos,Reunião interna,Média,02/03/2025,10/03/2025,Concluída,Reunião de Time
+1,Ana,Tarefa,Baixa,02/03/2025,,Vencida,
+9,Pedro,Reunião com o cliente,Média,02/03/2025,,Vencida,
+83,Mariana,Reunião com o cliente,Alta,03/03/2025,05/03/2025,Concluída,Problemas Técnicos
+57,Carlos,Whatsapp,Alta,03/03/2025,07/03/2025,Concluída,
+21,Ana,Reunião com o cliente,Alta,03/03/2025,09/03/2025,Concluída,Problema técnico
+2,Carlos,E-mail,Média,03/03/2025,,Vencida,
+10,Rafael,Reunião com o cliente,Média,03/03/2025,,Vencida,
+33,Mariana,Whatsapp,Baixa,04/03/2025,28/02/2025,Concluída,
+81,Carlos,Atividade,Média,04/03/2025,01/03/2025,Concluída,
+78,Ana,Reunião com o cliente,Alta,04/03/2025,01/03/2025,Concluída,Problema técnico
+81,Carlos,Atividade,Alta,04/03/2025,04/03/2025,Concluída,
+77,Ana,Ligação,Baixa,04/03/2025,04/03/2025,Concluída,
+34,Pedro,Reunião com o cliente,Média,04/03/2025,07/03/2025,Concluída,Revisão Estratégica
+2,Carlos,Atividade,Média,04/03/2025,08/03/2025,Concluída,
+4,Pedro,Reunião interna,Média,04/03/2025,09/03/2025,Concluída,Treinamento de Produto
+17,Carlos,Ligação,Baixa,04/03/2025,11/03/2025,Concluída,
+85,Rafael,Atividade,Alta,04/03/2025,,Vencida,
+41,Ana,Reunião com o cliente,Média,05/03/2025,01/03/2025,Concluída,
+72,Carlos,E-mail,Baixa,05/03/2025,02/03/2025,Concluída,
+47,Carlos,Reunião com o cliente,Alta,05/03/2025,04/03/2025,Concluída,Treinamento
+83,Mariana,Reunião com o cliente,Média,05/03/2025,04/03/2025,Concluída,Revisão Estratégica
+21,Ana,Reunião com o cliente,Alta,05/03/2025,07/03/2025,Concluída,Problemas Técnicos
+5,Rafael,Reunião interna,Média,05/03/2025,07/03/2025,Concluída,Reunião Geral
+19,Pedro,Reunião com o cliente,Alta,05/03/2025,12/03/2025,Concluída,Problemas Técnicos
+78,Ana,Atividade,Média,05/03/2025,,Vencida,
+21,Ana,Whatsapp,Alta,05/03/2025,,Vencida,
+63,Mariana,Whatsapp,Alta,05/03/2025,,Vencida,
+9,Pedro,Atividade,Média,05/03/2025,,Vencida,
+81,Carlos,Reunião com o cliente,Alta,06/03/2025,04/03/2025,Concluída,Treinamento
+78,Ana,Reunião com o cliente,Alta,06/03/2025,05/03/2025,Concluída,problema técnico
+17,Carlos,Atividade,Alta,06/03/2025,07/03/2025,Concluída,
+11,Ana,Reunião interna,Alta,06/03/2025,09/03/2025,Concluída,
+61,Ana,Whatsapp,Média,06/03/2025,10/03/2025,Concluída,
+79,Ana,Reunião com o cliente,Alta,06/03/2025,11/03/2025,Concluída,
+53,Mariana,Reunião interna,Alta,06/03/2025,11/03/2025,Concluída,Problema Técnico
+17,Carlos,E-mail,Alta,06/03/2025,15/03/2025,Concluída,
+89,Rafael,E-mail,Alta,06/03/2025,,Vencida,
+6,Ana,Reunião interna,Baixa,07/03/2025,03/03/2025,Concluída,Treinamento de Produto
+2,Carlos,Reunião interna,Baixa,07/03/2025,03/03/2025,Concluída,Treinamento de Produto
+57,Carlos,Reunião com o cliente,Alta,07/03/2025,08/03/2025,Concluída,problema técnico
+7,Carlos,Ligação,Alta,07/03/2025,12/03/2025,Concluída,
+79,Ana,Reunião com o cliente,Alta,07/03/2025,12/03/2025,Concluída,Problema técnico
+48,Mariana,Reunião com o cliente,Alta,07/03/2025,12/03/2025,Concluída,
+8,Mariana,Tarefa,Baixa,07/03/2025,13/03/2025,Concluída,
+49,Pedro,Reunião interna,Alta,07/03/2025,14/03/2025,Concluída,Reunião Geral
+11,Ana,Ligação,Alta,07/03/2025,17/03/2025,Concluída,
+25,Rafael,Reunião com o cliente,Baixa,07/03/2025,17/03/2025,Concluída,Treinamento
+36,Ana,Atividade,Baixa,07/03/2025,,Vencida,
+8,Mariana,Reunião interna,Alta,07/03/2025,,Vencida,
+14,Pedro,Reunião com o cliente,Baixa,08/03/2025,05/03/2025,Concluída,Treinamento
+14,Pedro,Reunião com o cliente,Média,08/03/2025,07/03/2025,Concluída,
+23,Mariana,Reunião interna,Média,08/03/2025,07/03/2025,Concluída,Reunião Geral
+13,Mariana,Reunião com o cliente,Alta,08/03/2025,11/03/2025,Concluída,Revisão Estratégica
+13,Mariana,E-mail,Baixa,08/03/2025,16/03/2025,Concluída,
+11,Ana,E-mail,Alta,08/03/2025,18/03/2025,Concluída,
+69,Pedro,Atividade,Alta,08/03/2025,,Vencida,
+69,Pedro,Whatsapp,Alta,08/03/2025,,Vencida,
+11,Ana,E-mail,Média,09/03/2025,05/03/2025,Concluída,
+16,Ana,Reunião com o cliente,Alta,09/03/2025,06/03/2025,Concluída,Problemas Técnicos
+8,Mariana,Atividade,Baixa,09/03/2025,10/03/2025,Concluída,
+24,Pedro,Reunião interna,Alta,09/03/2025,10/03/2025,Concluída,Reunião de Time
+76,Ana,Reunião com o cliente,Média,09/03/2025,12/03/2025,Concluída,Treinamento
+79,Ana,Reunião com o cliente,Alta,09/03/2025,12/03/2025,Concluída,Problemas Técnicos
+17,Carlos,Reunião interna,Alta,09/03/2025,12/03/2025,Concluída,
+13,Mariana,Reunião interna,Alta,09/03/2025,12/03/2025,Concluída,Problema Técnico
+32,Carlos,Reunião interna,Baixa,09/03/2025,14/03/2025,Concluída,Reunião Geral
+25,Rafael,Whatsapp,Baixa,09/03/2025,14/03/2025,Concluída,
+52,Carlos,E-mail,Baixa,09/03/2025,18/03/2025,Concluída,
+16,Ana,Reunião com o cliente,Média,10/03/2025,08/03/2025,Concluída,Treinamento
+45,Rafael,Atividade,Média,10/03/2025,09/03/2025,Concluída,
+16,Ana,Reunião com o cliente,Alta,10/03/2025,11/03/2025,Concluída,Problemas Técnicos
+8,Mariana,Atividade,Baixa,10/03/2025,13/03/2025,Concluída,
+56,Ana,Ligação,Alta,10/03/2025,17/03/2025,Concluída,
+1,Ana,Reunião com o cliente,Baixa,10/03/2025,18/03/2025,Concluída,
+42,Carlos,Reunião interna,Alta,10/03/2025,20/03/2025,Concluída,Problema Técnico
+32,Carlos,Atividade,Média,10/03/2025,,Vencida,
+19,Pedro,Atividade,Baixa,10/03/2025,,Vencida,
+15,Rafael,Reunião com o cliente,Média,11/03/2025,09/03/2025,Concluída,Revisão Estratégica
+32,Carlos,E-mail,Média,11/03/2025,10/03/2025,Concluída,
+84,Ana,Reunião com o cliente,Baixa,11/03/2025,10/03/2025,Concluída,
+25,Rafael,Reunião com o cliente,Alta,11/03/2025,10/03/2025,Concluída,Problemas Técnicos
+21,Ana,Reunião interna,Alta,11/03/2025,10/03/2025,Concluída,Reunião de Time
+76,Ana,Tarefa,Baixa,11/03/2025,12/03/2025,Concluída,
+36,Ana,Atividade,Média,11/03/2025,13/03/2025,Concluída,
+9,Pedro,Whatsapp,Média,11/03/2025,13/03/2025,Concluída,
+48,Mariana,Tarefa,Baixa,11/03/2025,14/03/2025,Concluída,
+66,Ana,Whatsapp,Alta,11/03/2025,15/03/2025,Concluída,
+2,Carlos,Reunião interna,Baixa,11/03/2025,17/03/2025,Concluída,Reunião de Time
+41,Ana,E-mail,Alta,11/03/2025,19/03/2025,Concluída,
+25,Rafael,Reunião com o cliente,Alta,11/03/2025,21/03/2025,Concluída,Revisão Estratégica
+8,Mariana,Whatsapp,Alta,11/03/2025,21/03/2025,Concluída,
+44,Pedro,Ligação,Baixa,11/03/2025,,Vencida,
+69,Pedro,Ligação,Baixa,11/03/2025,,Vencida,
+8,Mariana,E-mail,Média,12/03/2025,08/03/2025,Concluída,
+21,Ana,Reunião interna,Média,12/03/2025,09/03/2025,Concluída,Treinamento de Produto
+17,Carlos,Reunião interna,Alta,12/03/2025,09/03/2025,Concluída,Treinamento de Produto
+68,Mariana,Reunião interna,Média,12/03/2025,09/03/2025,Concluída,Treinamento de Produto
+17,Carlos,Whatsapp,Baixa,12/03/2025,12/03/2025,Concluída,
+82,Carlos,Reunião com o cliente,Alta,12/03/2025,15/03/2025,Concluída,problema técnico
+68,Mariana,Reunião interna,Baixa,12/03/2025,17/03/2025,Concluída,Reunião de Time
+63,Mariana,Whatsapp,Alta,12/03/2025,18/03/2025,Concluída,
+13,Mariana,Reunião com o cliente,Média,12/03/2025,20/03/2025,Concluída,Treinamento
+74,Pedro,Reunião com o cliente,Alta,12/03/2025,21/03/2025,Concluída,Problemas Técnicos
+23,Mariana,Reunião interna,Média,12/03/2025,21/03/2025,Concluída,Reunião Geral
+74,Pedro,Atividade,Alta,12/03/2025,,Vencida,
+18,Mariana,Ligação,Baixa,12/03/2025,,Vencida,
+21,Ana,Whatsapp,Média,13/03/2025,09/03/2025,Concluída,
+83,Mariana,Reunião interna,Baixa,13/03/2025,10/03/2025,Concluída,Reunião de Time
+46,Ana,Reunião com o cliente,Alta,13/03/2025,16/03/2025,Concluída,
+24,Pedro,Reunião com o cliente,Média,13/03/2025,16/03/2025,Concluída,Treinamento
+93,Ana,Reunião com o cliente,Alta,13/03/2025,20/03/2025,Concluída,problema técnico
+71,Ana,Reunião interna,Baixa,13/03/2025,21/03/2025,Concluída,
+21,Ana,Reunião interna,Média,13/03/2025,22/03/2025,Concluída,
+46,Ana,Atividade,Baixa,13/03/2025,,Vencida,
+77,Ana,Reunião com o cliente,Média,14/03/2025,11/03/2025,Concluída,
+49,Pedro,Atividade,Média,14/03/2025,12/03/2025,Concluída,
+76,Ana,Atividade,Alta,14/03/2025,17/03/2025,Concluída,
+31,Ana,Reunião com o cliente,Alta,14/03/2025,19/03/2025,Concluída,Problemas Técnicos
+6,Ana,E-mail,Alta,14/03/2025,20/03/2025,Concluída,
+6,Ana,Reunião interna,Baixa,14/03/2025,21/03/2025,Concluída,Reunião Geral
+24,Pedro,Reunião interna,Baixa,14/03/2025,21/03/2025,Concluída,Reunião Geral
+20,Rafael,Reunião com o cliente,Média,14/03/2025,23/03/2025,Concluída,Treinamento
+8,Mariana,Whatsapp,Média,14/03/2025,23/03/2025,Concluída,
+56,Ana,Tarefa,Baixa,14/03/2025,24/03/2025,Concluída,
+75,Rafael,Atividade,Média,14/03/2025,,Vencida,
+18,Mariana,Reunião interna,Baixa,15/03/2025,14/03/2025,Concluída,Reunião Geral
+71,Ana,Reunião interna,Alta,15/03/2025,17/03/2025,Concluída,Reunião de Time
+24,Pedro,Reunião interna,Baixa,15/03/2025,17/03/2025,Concluída,Reunião de Time
+23,Mariana,E-mail,Baixa,15/03/2025,19/03/2025,Concluída,
+54,Pedro,Reunião com o cliente,Média,15/03/2025,19/03/2025,Concluída,Treinamento
+17,Carlos,Tarefa,Alta,15/03/2025,20/03/2025,Concluída,
+32,Carlos,Whatsapp,Média,15/03/2025,20/03/2025,Concluída,
+6,Ana,Reunião interna,Alta,15/03/2025,24/03/2025,Concluída,Reunião de Time
+11,Ana,Tarefa,Média,15/03/2025,,Vencida,
+12,Carlos,Reunião com o cliente,Média,16/03/2025,14/03/2025,Concluída,Treinamento
+11,Ana,Whatsapp,Baixa,16/03/2025,16/03/2025,Concluída,
+5,Rafael,Atividade,Baixa,16/03/2025,17/03/2025,Concluída,
+21,Ana,E-mail,Alta,16/03/2025,17/03/2025,Concluída,
+6,Ana,Reunião com o cliente,Alta,16/03/2025,18/03/2025,Concluída,Problemas Técnicos
+92,Ana,Reunião com o cliente,Baixa,16/03/2025,20/03/2025,Concluída,Treinamento
+31,Ana,E-mail,Média,16/03/2025,22/03/2025,Concluída,
+16,Ana,Whatsapp,Média,16/03/2025,23/03/2025,Concluída,
+59,Pedro,Atividade,Média,16/03/2025,25/03/2025,Concluída,
+19,Pedro,Tarefa,Baixa,16/03/2025,,Vencida,
+46,Ana,Atividade,Alta,17/03/2025,17/03/2025,Concluída,
+41,Ana,Ligação,Média,17/03/2025,19/03/2025,Concluída,
+79,Ana,E-mail,Média,17/03/2025,21/03/2025,Concluída,
+21,Ana,Whatsapp,Alta,17/03/2025,21/03/2025,Concluída,
+9,Pedro,Reunião interna,Alta,17/03/2025,24/03/2025,Concluída,Reunião de Time
+21,Ana,Whatsapp,Baixa,17/03/2025,24/03/2025,Concluída,
+37,Carlos,Reunião com o cliente,Média,17/03/2025,26/03/2025,Concluída,Revisão Estratégica
+66,Ana,E-mail,Alta,17/03/2025,27/03/2025,Concluída,
+71,Ana,Tarefa,Baixa,17/03/2025,27/03/2025,Concluída,
+23,Mariana,Atividade,Alta,17/03/2025,,Vencida,
+9,Pedro,Atividade,Média,17/03/2025,,Vencida,
+82,Carlos,Ligação,Baixa,17/03/2025,,Vencida,
+15,Rafael,Ligação,Baixa,17/03/2025,,Vencida,
+21,Ana,Reunião interna,Alta,18/03/2025,14/03/2025,Concluída,Reunião Geral
+22,Carlos,Atividade,Alta,18/03/2025,21/03/2025,Concluída,
+21,Ana,E-mail,Média,18/03/2025,23/03/2025,Concluída,
+7,Carlos,Reunião com o cliente,Alta,18/03/2025,24/03/2025,Concluída,Treinamento
+23,Mariana,Whatsapp,Média,18/03/2025,24/03/2025,Concluída,
+38,Mariana,Whatsapp,Alta,18/03/2025,24/03/2025,Concluída,
+27,Carlos,Reunião interna,Alta,18/03/2025,25/03/2025,Concluída,Treinamento de Produto
+81,Carlos,Ligação,Baixa,18/03/2025,27/03/2025,Concluída,
+56,Ana,Reunião com o cliente,Média,18/03/2025,28/03/2025,Concluída,Treinamento
+69,Pedro,E-mail,Baixa,18/03/2025,,Vencida,
+10,Rafael,E-mail,Alta,18/03/2025,,Vencida,
+29,Pedro,Whatsapp,Baixa,18/03/2025,,Vencida,
+26,Ana,Ligação,Alta,19/03/2025,18/03/2025,Concluída,
+5,Rafael,Whatsapp,Baixa,19/03/2025,20/03/2025,Concluída,
+38,Mariana,E-mail,Baixa,19/03/2025,24/03/2025,Concluída,
+21,Ana,Reunião interna,Baixa,19/03/2025,25/03/2025,Concluída,Treinamento de Produto
+81,Carlos,Whatsapp,Alta,19/03/2025,26/03/2025,Concluída,
+15,Rafael,Atividade,Média,19/03/2025,27/03/2025,Concluída,
+74,Pedro,Reunião com o cliente,Alta,19/03/2025,,Vencida,Não realizada
+19,Pedro,Whatsapp,Alta,19/03/2025,,Vencida,
+9,Pedro,Whatsapp,Alta,19/03/2025,,Vencida,
+41,Ana,Reunião com o cliente,Alta,20/03/2025,19/03/2025,Concluída,problema técnico
+76,Ana,Whatsapp,Média,20/03/2025,20/03/2025,Concluída,
+19,Pedro,E-mail,Baixa,20/03/2025,21/03/2025,Concluída,
+56,Ana,Whatsapp,Alta,20/03/2025,21/03/2025,Concluída,
+23,Mariana,Atividade,Baixa,20/03/2025,22/03/2025,Concluída,
+18,Mariana,Reunião com o cliente,Média,20/03/2025,22/03/2025,Concluída,Revisão Estratégica
+21,Ana,Reunião com o cliente,Alta,20/03/2025,23/03/2025,Concluída,problema técnico
+20,Rafael,Reunião com o cliente,Média,20/03/2025,23/03/2025,Concluída,Treinamento
+27,Carlos,Reunião interna,Alta,20/03/2025,24/03/2025,Concluída,Reunião de Time
+20,Rafael,Reunião interna,Alta,20/03/2025,25/03/2025,Concluída,Problema Técnico
+5,Rafael,E-mail,Alta,20/03/2025,27/03/2025,Concluída,
+16,Ana,Reunião interna,Alta,20/03/2025,30/03/2025,Concluída,Problemas Técnicos
+5,Rafael,Whatsapp,Média,20/03/2025,30/03/2025,Concluída,
+77,Ana,E-mail,Média,21/03/2025,18/03/2025,Concluída,
+6,Ana,E-mail,Alta,21/03/2025,22/03/2025,Concluída,
+89,Rafael,Reunião com o cliente,Alta,21/03/2025,23/03/2025,Concluída,Treinamento
+11,Ana,Reunião interna,Alta,21/03/2025,23/03/2025,Concluída,Problemas Técnicos
+42,Carlos,E-mail,Média,21/03/2025,26/03/2025,Concluída,
+39,Pedro,Reunião com o cliente,Média,21/03/2025,27/03/2025,Concluída,Treinamento
+78,Ana,E-mail,Baixa,21/03/2025,28/03/2025,Concluída,
+6,Ana,Whatsapp,Média,21/03/2025,29/03/2025,Concluída,
+55,Rafael,Reunião com o cliente,Baixa,21/03/2025,31/03/2025,Concluída,Treinamento
+4,Pedro,Reunião interna,Alta,21/03/2025,31/03/2025,Concluída,Reunião de Time
+7,Carlos,Tarefa,Média,21/03/2025,,Vencida,
+44,Pedro,Tarefa,Média,21/03/2025,,Vencida,
+6,Ana,Ligação,Média,22/03/2025,19/03/2025,Concluída,
+81,Carlos,Reunião interna,Média,22/03/2025,21/03/2025,Concluída,Reunião Geral
+28,Mariana,Reunião interna,Baixa,22/03/2025,22/03/2025,Concluída,
+5,Rafael,E-mail,Média,22/03/2025,23/03/2025,Concluída,
+1,Ana,Reunião com o cliente,Alta,22/03/2025,24/03/2025,Concluída,Problema Técnico
+7,Carlos,E-mail,Alta,22/03/2025,25/03/2025,Concluída,
+1,Ana,Reunião com o cliente,Alta,22/03/2025,25/03/2025,Concluída,Problema Técnico
+18,Mariana,Whatsapp,Baixa,22/03/2025,27/03/2025,Concluída,
+51,Ana,Ligação,Média,22/03/2025,28/03/2025,Concluída,
+13,Mariana,Reunião interna,Alta,22/03/2025,28/03/2025,Concluída,Problema Técnico
+17,Carlos,Atividade,Alta,22/03/2025,,Vencida,
+62,Carlos,Tarefa,Baixa,22/03/2025,,Vencida,
+34,Pedro,Reunião interna,Alta,22/03/2025,,Vencida,
+38,Mariana,Ligação,Média,23/03/2025,22/03/2025,Concluída,
+24,Pedro,Atividade,Média,23/03/2025,28/03/2025,Concluída,
+68,Mariana,E-mail,Baixa,23/03/2025,31/03/2025,Concluída,
+68,Mariana,Reunião com o cliente,Baixa,23/03/2025,31/03/2025,Concluída,
+79,Ana,Reunião interna,Alta,23/03/2025,31/03/2025,Concluída,Reunião de Time
+62,Carlos,Reunião interna,Alta,23/03/2025,31/03/2025,Concluída,Reunião de Time
+68,Mariana,Reunião interna,Média,23/03/2025,31/03/2025,Concluída,Reunião de Time
+58,Mariana,E-mail,Média,23/03/2025,,Vencida,
+8,Mariana,Whatsapp,Alta,23/03/2025,,Vencida,
+82,Carlos,Reunião com o cliente,Média,24/03/2025,25/03/2025,Concluída,Revisão Estratégica
+14,Pedro,Reunião interna,Média,24/03/2025,25/03/2025,Concluída,Treinamento de Produto
+75,Rafael,Reunião com o cliente,Alta,24/03/2025,28/03/2025,Concluída,Treinamento
+80,Ana,Reunião interna,Alta,24/03/2025,28/03/2025,Concluída,Reunião Geral
+57,Carlos,E-mail,Alta,24/03/2025,,Vencida,
+48,Mariana,Tarefa,Alta,24/03/2025,,Vencida,
+6,Ana,Reunião interna,Alta,25/03/2025,25/03/2025,Concluída,Problema Técnico
+17,Carlos,E-mail,Baixa,25/03/2025,26/03/2025,Concluída,
+21,Ana,Whatsapp,Baixa,25/03/2025,29/03/2025,Concluída,
+60,Rafael,Reunião com o cliente,Alta,25/03/2025,30/03/2025,Concluída,
+22,Carlos,Atividade,Alta,25/03/2025,,Vencida,
+4,Pedro,Reunião com o cliente,Baixa,25/03/2025,,Vencida,
+4,Pedro,Whatsapp,Alta,25/03/2025,,Vencida,
+23,Mariana,Reunião interna,Alta,26/03/2025,25/03/2025,Concluída,Treinamento de Produto
+1,Ana,Whatsapp,Média,26/03/2025,27/03/2025,Concluída,
+60,Rafael,Ligação,Baixa,26/03/2025,29/03/2025,Concluída,
+58,Mariana,Reunião interna,Média,27/03/2025,24/03/2025,Concluída,Reunião de Time
+6,Ana,Atividade,Alta,27/03/2025,27/03/2025,Concluída,
+22,Carlos,Atividade,Alta,27/03/2025,28/03/2025,Concluída,
+34,Pedro,Reunião interna,Alta,27/03/2025,28/03/2025,Concluída,Reunião Geral
+61,Ana,Reunião com o cliente,Alta,27/03/2025,29/03/2025,Concluída,Problemas Técnicos
+8,Mariana,E-mail,Baixa,27/03/2025,31/03/2025,Concluída,
+21,Ana,E-mail,Média,27/03/2025,,Vencida,
+59,Pedro,Atividade,Média,27/03/2025,,Vencida,
+44,Pedro,Reunião interna,Baixa,27/03/2025,,Vencida,
+4,Pedro,Whatsapp,Baixa,27/03/2025,,Vencida,
+7,Carlos,Reunião com o cliente,Média,28/03/2025,24/03/2025,Concluída,Revisão Estratégica
+8,Mariana,Reunião com o cliente,Baixa,28/03/2025,24/03/2025,Concluída,Treinamento
+42,Carlos,Ligação,Baixa,28/03/2025,28/03/2025,Concluída,
+57,Carlos,Reunião interna,Média,28/03/2025,28/03/2025,Concluída,Reunião Geral
+16,Ana,Reunião com o cliente,Alta,28/03/2025,29/03/2025,Concluída,Problemas Técnicos
+41,Ana,Reunião com o cliente,Baixa,28/03/2025,29/03/2025,Concluída,Treinamento
+71,Ana,Reunião interna,Alta,28/03/2025,31/03/2025,Concluída,Problemas Técnicos
+40,Rafael,Ligação,Média,29/03/2025,26/03/2025,Concluída,
+32,Carlos,Atividade,Baixa,29/03/2025,27/03/2025,Concluída,
+33,Mariana,Reunião com o cliente,Média,29/03/2025,27/03/2025,Concluída,Revisão Estratégica
+6,Ana,Tarefa,Média,29/03/2025,29/03/2025,Concluída,
+23,Mariana,Atividade,Alta,29/03/2025,30/03/2025,Concluída,
+36,Ana,Reunião interna,Alta,29/03/2025,30/03/2025,Concluída,problema técnico
+24,Pedro,Whatsapp,Média,29/03/2025,,Vencida,
+26,Ana,Reunião com o cliente,Alta,30/03/2025,30/03/2025,Concluída,Problemas Técnicos
+25,Rafael,Tarefa,Baixa,30/03/2025,30/03/2025,Concluída,
+42,Carlos,Atividade,Alta,30/03/2025,,Vencida,
+43,Mariana,Atividade,Baixa,30/03/2025,,Vencida,
+34,Pedro,Tarefa,Baixa,30/03/2025,,Vencida,
+13,Mariana,Reunião interna,Média,31/03/2025,28/03/2025,Concluída,Reunião Geral
+41,Ana,Ligação,Média,31/03/2025,30/03/2025,Concluída,
+10,Rafael,Reunião interna,Alta,31/03/2025,30/03/2025,Concluída,Problema Técnico
+17,Carlos,E-mail,Baixa,31/03/2025,31/03/2025,Concluída,
+31,Ana,Whatsapp,Média,31/03/2025,31/03/2025,Concluída,
